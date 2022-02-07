@@ -1,4 +1,3 @@
-
 print("""
 Welcome to Car Game.
 To find out what commands are available to you, enter 'menu'
