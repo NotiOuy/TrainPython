@@ -24,3 +24,7 @@ print("The number 1 in root the number 2: " + str(squer_numbers))
 
 operator_power = number1 ** number2
 print("The number 1 in the power of the number 2: " + str(operator_power))
+
+x = 3.78
+y = x ** 4 - ((7 + 46) // 4) * 0.76
+print("The result of y is: " + str(y))
